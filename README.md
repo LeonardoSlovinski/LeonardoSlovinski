@@ -6,6 +6,9 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/leonardodavinski)
 
 ![Slovinski GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSLovinski&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSlovinski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Tecnologias que eu uso no meu dia
 
